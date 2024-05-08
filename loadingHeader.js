@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://cdn.jsdelivr.net/gh/yannis216/looptrackPUBLIC@d04ea95451cd09035b0a17d55e2c779e39a4e5b5/loading.svg';
+svgImage.src = 'https://cdn.jsdelivr.net/gh/yannis216/looptrackPUBLIC@0021ac94df03590584893588c60b7fd7cbd50d36/loading.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
